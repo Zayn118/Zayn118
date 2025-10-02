@@ -1,4 +1,4 @@
-# Hey there, I'm Zayn118! 🚀
+# Hey there, I'm Zayn! 🚀
 
 Welcome to my GitHub universe!
 
@@ -19,6 +19,7 @@ Welcome to my GitHub universe!
 
 ## 📬 Let’s Connect
 - Reach out, say hi, or ask me anything about programming!
+- https://www.linkedin.com/in/zayn-saddique/
 
 
 Thanks for stopping by and joining my coding adventure! ✨
